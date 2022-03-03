@@ -101,18 +101,8 @@ https://iptv.tsinghua.edu.cn/hls/cetv1hd.m3u8
 https://iptv.tsinghua.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 group-title="高清频道",贵州卫视高清
 https://iptv.tsinghua.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1 group-title="高清频道",卡通剧场高清
-https://iptv.tsinghua.edu.cn/hls/ktjchd.m3u8
-#EXTINF:-1 group-title="高清频道",大众影视高清
-https://iptv.tsinghua.edu.cn/hls/dzyshd.m3u8
-#EXTINF:-1 group-title="高清频道",家庭影院高清
-https://iptv.tsinghua.edu.cn/hls/jtyyhd.m3u8
-#EXTINF:-1 group-title="高清频道",家庭剧场高清
-https://iptv.tsinghua.edu.cn/hls/jtjchd.m3u8
 #EXTINF:-1 group-title="高清频道",CGTN纪实高清
 https://iptv.tsinghua.edu.cn/hls/cgtndochd.m3u8
-#EXTINF:-1 group-title="高清频道",足球频道
-https://iptv.tsinghua.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 group-title="特色频道",凤凰中文
 https://iptv.tsinghua.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 group-title="特色频道",凤凰资讯
@@ -309,17 +299,3 @@ https://iptv.tsinghua.edu.cn/hls/bjtygb.m3u8
 https://iptv.tsinghua.edu.cn/hls/bjjtgb.m3u8
 #EXTINF:-1 group-title="广播",北京音乐
 https://iptv.tsinghua.edu.cn/hls/bjyygb.m3u8
-#EXTINF:-1 group-title="广播",北京古典音乐
-https://iptv.tsinghua.edu.cn/hls/bjgdyygb.m3u8
-#EXTINF:-1 group-title="广播",北京外语
-https://iptv.tsinghua.edu.cn/hls/bjwaiyugb.m3u8
-#EXTINF:-1 group-title="广播",北京教学
-https://iptv.tsinghua.edu.cn/hls/bjjxgb.m3u8
-#EXTINF:-1 group-title="广播",北京长书
-https://iptv.tsinghua.edu.cn/hls/bjchangshugb.m3u8
-#EXTINF:-1 group-title="广播",北京戏曲
-https://iptv.tsinghua.edu.cn/hls/bjxqgb.m3u8
-#EXTINF:-1 group-title="广播",北京欢乐时光
-https://iptv.tsinghua.edu.cn/hls/bjhlsggb.m3u8
-#EXTINF:-1 group-title="广播",北京怀旧金曲
-https://iptv.tsinghua.edu.cn/hls/bjhjjqgb.m3u8

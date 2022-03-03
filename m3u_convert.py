@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from urllib import request
 import json
+from urllib import request
 
 channels_url = 'https://iptv.tsinghua.edu.cn/channels.json'
 channels_json = request.urlopen(channels_url).read().decode('utf8')
